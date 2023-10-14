@@ -5,8 +5,6 @@ category:
  - golang
 ---
 
-
-
 ## 1. 核心思想
 
 Gee 的基本原理是实现`http.Handler`接口：
