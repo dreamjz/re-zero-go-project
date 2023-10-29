@@ -7,6 +7,12 @@
 
 Online：https://dreamjz.github.io/blog/golang/re-zero-go-project
 
+## TODO
+
+- [ ] 从零开始的定时任务 - ReCron，参考 https://github.com/robfig/cron
+- [x] [七天用Go从零实现系列](https://geektutu.com/post/gee.html) 学习笔记的总结
+
+
 ## 7-days-golang
 
 学习笔记：[Code](https://github.com/dreamjz/golang-notes/tree/main/books/7-days-golang), [Notes](https://github.com/dreamjz/my-notes/tree/main/Golang/books/7-days-golang)
@@ -19,7 +25,5 @@ Online：https://dreamjz.github.io/blog/golang/re-zero-go-project
 - [GeeRPC 笔记总结](./7days-golang/GeeRPC/README.md)
   ![image-20231015105243243](https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310151052132.png)
 
-## TODO
 
-- [x] [七天用Go从零实现系列](https://geektutu.com/post/gee.html) 学习笔记的总结
 
